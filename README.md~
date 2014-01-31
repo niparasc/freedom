@@ -15,5 +15,3 @@ Running instructions:
 
 * To start the server, run GameServer.py which is under "server" package.
 * To start the client, run GameClient.py which is under "client" package.
-
-Documentation in the doc folder.
